@@ -1,3 +1,1 @@
 # scoreboard-hardware
-
-test
