@@ -1,0 +1,1945 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>/home/chris/DL/Projekte/score_board/public/code/board_schematic/uC_segment_control.sch</source>
+    <date>Do 05 Mai 2016 11:53:14 CEST</date>
+    <tool>Eeschema 4.0.2+dfsg1-2~bpo8+1-stable</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>uC_segment_control.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/power_supply_3.3V/" tstamps="/5725D7AC/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>power_supply_3.3V.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="3" name="/p-mos_switch_S0_0.sch/" tstamps="/572880E3/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>p-mos_switch.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="4" name="/p-mos_switch_S0_1.sch/" tstamps="/572753D2/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>p-mos_switch.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="5" name="/p-mos_switch_S0_2.sch/" tstamps="/57275FE1/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>p-mos_switch.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="6" name="/p-mos_switch_S0_3.sch/" tstamps="/57276A86/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>p-mos_switch.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="7" name="/p-mos_switch_S0_4.sch/" tstamps="/57276A8A/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>p-mos_switch.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="8" name="/p-mos_switch_S0_5.sch/" tstamps="/57276A8E/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>p-mos_switch.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="9" name="/p-mos_switch_S0_6.sch/" tstamps="/57276E10/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>p-mos_switch.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="10" name="/p-mos_switch_S1_0.sch/" tstamps="/5727C603/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>p-mos_switch.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="11" name="/p-mos_switch_S1_1.sch/" tstamps="/5727C607/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>p-mos_switch.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="12" name="/p-mos_switch_S1_2.sch/" tstamps="/5727C60B/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>p-mos_switch.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="13" name="/p-mos_switch_S1_3.sch/" tstamps="/5727C60F/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>p-mos_switch.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="14" name="/p-mos_switch_S1_4.sch/" tstamps="/5727C613/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>p-mos_switch.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="15" name="/p-mos_switch_S1_5.sch/" tstamps="/5727C617/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>p-mos_switch.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="16" name="/p-mos_switch_S1_6.sch/" tstamps="/5727C61B/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>p-mos_switch.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="IC101">
+      <value>ATMEGA88PA-P</value>
+      <footprint>DIL28</footprint>
+      <libsource lib="atmel" part="ATMEGA88PA-P"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5725FA39</tstamp>
+    </comp>
+    <comp ref="C101">
+      <value>C</value>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5725FB10</tstamp>
+    </comp>
+    <comp ref="R113">
+      <value>10k</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5725FD50</tstamp>
+    </comp>
+    <comp ref="P102">
+      <value>CONN_02X05</value>
+      <footprint>Connect:IDC_Header_Straight_10pins</footprint>
+      <libsource lib="conn" part="CONN_02X05"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5725FF13</tstamp>
+    </comp>
+    <comp ref="R103">
+      <value>5k</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>572600A7</tstamp>
+    </comp>
+    <comp ref="R104">
+      <value>5k</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>572601AB</tstamp>
+    </comp>
+    <comp ref="R105">
+      <value>5k</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>572601FA</tstamp>
+    </comp>
+    <comp ref="R106">
+      <value>5k</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57260230</tstamp>
+    </comp>
+    <comp ref="R119">
+      <value>3k3</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57281AF4</tstamp>
+    </comp>
+    <comp ref="Q102">
+      <value>IRLML2502</value>
+      <libsource lib="device" part="Q_NMOS_GSD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5727EB50</tstamp>
+    </comp>
+    <comp ref="Q104">
+      <value>IRLML2502</value>
+      <libsource lib="device" part="Q_NMOS_GSD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5727EB56</tstamp>
+    </comp>
+    <comp ref="Q106">
+      <value>IRLML2502</value>
+      <libsource lib="device" part="Q_NMOS_GSD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5727EB5C</tstamp>
+    </comp>
+    <comp ref="P118">
+      <value>CONN_01X02</value>
+      <libsource lib="conn" part="CONN_01X02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>572772EF</tstamp>
+    </comp>
+    <comp ref="P117">
+      <value>CONN_01X02</value>
+      <libsource lib="conn" part="CONN_01X02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57277435</tstamp>
+    </comp>
+    <comp ref="P116">
+      <value>CONN_01X02</value>
+      <libsource lib="conn" part="CONN_01X02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57277549</tstamp>
+    </comp>
+    <comp ref="P111">
+      <value>CONN_01X02</value>
+      <libsource lib="conn" part="CONN_01X02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57278E4A</tstamp>
+    </comp>
+    <comp ref="P112">
+      <value>CONN_01X02</value>
+      <libsource lib="conn" part="CONN_01X02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57278E50</tstamp>
+    </comp>
+    <comp ref="P113">
+      <value>CONN_01X02</value>
+      <libsource lib="conn" part="CONN_01X02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57278E56</tstamp>
+    </comp>
+    <comp ref="P114">
+      <value>CONN_01X02</value>
+      <libsource lib="conn" part="CONN_01X02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57278E5C</tstamp>
+    </comp>
+    <comp ref="P126">
+      <value>CONN_01X02</value>
+      <libsource lib="conn" part="CONN_01X02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5727C3F8</tstamp>
+    </comp>
+    <comp ref="P125">
+      <value>CONN_01X02</value>
+      <libsource lib="conn" part="CONN_01X02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5727C3FE</tstamp>
+    </comp>
+    <comp ref="P124">
+      <value>CONN_01X02</value>
+      <libsource lib="conn" part="CONN_01X02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5727C404</tstamp>
+    </comp>
+    <comp ref="P119">
+      <value>CONN_01X02</value>
+      <libsource lib="conn" part="CONN_01X02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5727C434</tstamp>
+    </comp>
+    <comp ref="P120">
+      <value>CONN_01X02</value>
+      <libsource lib="conn" part="CONN_01X02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5727C43A</tstamp>
+    </comp>
+    <comp ref="P121">
+      <value>CONN_01X02</value>
+      <libsource lib="conn" part="CONN_01X02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5727C440</tstamp>
+    </comp>
+    <comp ref="P122">
+      <value>CONN_01X02</value>
+      <libsource lib="conn" part="CONN_01X02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5727C446</tstamp>
+    </comp>
+    <comp ref="P134">
+      <value>CONN_01X02</value>
+      <libsource lib="conn" part="CONN_01X02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5727C820</tstamp>
+    </comp>
+    <comp ref="P133">
+      <value>CONN_01X02</value>
+      <libsource lib="conn" part="CONN_01X02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5727C826</tstamp>
+    </comp>
+    <comp ref="P132">
+      <value>CONN_01X02</value>
+      <libsource lib="conn" part="CONN_01X02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5727C82C</tstamp>
+    </comp>
+    <comp ref="P127">
+      <value>CONN_01X02</value>
+      <libsource lib="conn" part="CONN_01X02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5727C85C</tstamp>
+    </comp>
+    <comp ref="P128">
+      <value>CONN_01X02</value>
+      <libsource lib="conn" part="CONN_01X02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5727C862</tstamp>
+    </comp>
+    <comp ref="P129">
+      <value>CONN_01X02</value>
+      <libsource lib="conn" part="CONN_01X02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5727C868</tstamp>
+    </comp>
+    <comp ref="P130">
+      <value>CONN_01X02</value>
+      <libsource lib="conn" part="CONN_01X02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5727C86E</tstamp>
+    </comp>
+    <comp ref="P115">
+      <value>CONN_01X02</value>
+      <libsource lib="conn" part="CONN_01X02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57284089</tstamp>
+    </comp>
+    <comp ref="P123">
+      <value>CONN_01X02</value>
+      <libsource lib="conn" part="CONN_01X02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>572847EC</tstamp>
+    </comp>
+    <comp ref="P131">
+      <value>CONN_01X02</value>
+      <libsource lib="conn" part="CONN_01X02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57284A32</tstamp>
+    </comp>
+    <comp ref="R117">
+      <value>3k3</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5728A5E2</tstamp>
+    </comp>
+    <comp ref="R115">
+      <value>3k3</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5728DB30</tstamp>
+    </comp>
+    <comp ref="R111">
+      <value>250</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5729CADD</tstamp>
+    </comp>
+    <comp ref="R118">
+      <value>3k3</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>572B94C4</tstamp>
+    </comp>
+    <comp ref="Q101">
+      <value>IRLML2502</value>
+      <libsource lib="device" part="Q_NMOS_GSD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>572B94CA</tstamp>
+    </comp>
+    <comp ref="Q103">
+      <value>IRLML2502</value>
+      <libsource lib="device" part="Q_NMOS_GSD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>572B94D0</tstamp>
+    </comp>
+    <comp ref="Q105">
+      <value>IRLML2502</value>
+      <libsource lib="device" part="Q_NMOS_GSD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>572B94D6</tstamp>
+    </comp>
+    <comp ref="R116">
+      <value>3k3</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>572B94E5</tstamp>
+    </comp>
+    <comp ref="R114">
+      <value>3k3</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>572B94EB</tstamp>
+    </comp>
+    <comp ref="R112">
+      <value>250</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5731ACF8</tstamp>
+    </comp>
+    <comp ref="R110">
+      <value>250</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5731AE5F</tstamp>
+    </comp>
+    <comp ref="R109">
+      <value>250</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5731DF43</tstamp>
+    </comp>
+    <comp ref="R108">
+      <value>250</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>573203C9</tstamp>
+    </comp>
+    <comp ref="R107">
+      <value>250</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5732053B</tstamp>
+    </comp>
+    <comp ref="C102">
+      <value>C_Small</value>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5733ECAD</tstamp>
+    </comp>
+    <comp ref="R102">
+      <value>100</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>572B1FD8</tstamp>
+    </comp>
+    <comp ref="P101">
+      <value>CONN_01X02</value>
+      <libsource lib="conn" part="CONN_01X02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>572B2240</tstamp>
+    </comp>
+    <comp ref="R101">
+      <value>100</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>572B2B36</tstamp>
+    </comp>
+    <comp ref="P109">
+      <value>CONN_01X02</value>
+      <libsource lib="conn" part="CONN_01X02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>572B95D9</tstamp>
+    </comp>
+    <comp ref="P108">
+      <value>CONN_01X02</value>
+      <libsource lib="conn" part="CONN_01X02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>572B9818</tstamp>
+    </comp>
+    <comp ref="P107">
+      <value>CONN_01X02</value>
+      <libsource lib="conn" part="CONN_01X02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>572B981E</tstamp>
+    </comp>
+    <comp ref="P106">
+      <value>CONN_01X02</value>
+      <libsource lib="conn" part="CONN_01X02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>572BAFE5</tstamp>
+    </comp>
+    <comp ref="P105">
+      <value>CONN_01X02</value>
+      <libsource lib="conn" part="CONN_01X02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>572BAFEB</tstamp>
+    </comp>
+    <comp ref="P104">
+      <value>CONN_01X02</value>
+      <libsource lib="conn" part="CONN_01X02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>572BAFF1</tstamp>
+    </comp>
+    <comp ref="P103">
+      <value>CONN_01X02</value>
+      <libsource lib="conn" part="CONN_01X02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>572BAFF7</tstamp>
+    </comp>
+    <comp ref="P110">
+      <value>CONN_01X02</value>
+      <libsource lib="conn" part="CONN_01X02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>572B375E</tstamp>
+    </comp>
+    <comp ref="U201">
+      <value>LF33</value>
+      <footprint>project_footprints:D-PAK</footprint>
+      <libsource lib="project_parts" part="LF33"/>
+      <sheetpath names="/power_supply_3.3V/" tstamps="/5725D7AC/"/>
+      <tstamp>5725E236</tstamp>
+    </comp>
+    <comp ref="C202">
+      <value>10uF (X5R-G0805 10/16)</value>
+      <libsource lib="device" part="CP"/>
+      <sheetpath names="/power_supply_3.3V/" tstamps="/5725D7AC/"/>
+      <tstamp>5725EB02</tstamp>
+    </comp>
+    <comp ref="D201">
+      <value>ZD 15</value>
+      <footprint>Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10</footprint>
+      <libsource lib="device" part="ZENER"/>
+      <sheetpath names="/power_supply_3.3V/" tstamps="/5725D7AC/"/>
+      <tstamp>5725F0CE</tstamp>
+    </comp>
+    <comp ref="C201">
+      <value>1uF</value>
+      <libsource lib="device" part="CP"/>
+      <sheetpath names="/power_supply_3.3V/" tstamps="/5725D7AC/"/>
+      <tstamp>5725F565</tstamp>
+    </comp>
+    <comp ref="P201">
+      <value>CONN_01X02_P</value>
+      <libsource lib="project_parts" part="CONN_01X02_P"/>
+      <sheetpath names="/power_supply_3.3V/" tstamps="/5725D7AC/"/>
+      <tstamp>572B16EC</tstamp>
+    </comp>
+    <comp ref="F201">
+      <value>F_Power</value>
+      <libsource lib="project_parts" part="F_Power"/>
+      <sheetpath names="/power_supply_3.3V/" tstamps="/5725D7AC/"/>
+      <tstamp>572B1B1A</tstamp>
+    </comp>
+    <comp ref="Q301">
+      <value>BC548</value>
+      <footprint>TO-92</footprint>
+      <libsource lib="transistors" part="BC548"/>
+      <sheetpath names="/p-mos_switch_S0_0.sch/" tstamps="/572880E3/"/>
+      <tstamp>572887A4</tstamp>
+    </comp>
+    <comp ref="Q302">
+      <value>IRLML2244</value>
+      <libsource lib="device" part="Q_PMOS_GSD"/>
+      <sheetpath names="/p-mos_switch_S0_0.sch/" tstamps="/572880E3/"/>
+      <tstamp>57288D4B</tstamp>
+    </comp>
+    <comp ref="R302">
+      <value>2k5</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/p-mos_switch_S0_0.sch/" tstamps="/572880E3/"/>
+      <tstamp>57288EBC</tstamp>
+    </comp>
+    <comp ref="R303">
+      <value>24k</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/p-mos_switch_S0_0.sch/" tstamps="/572880E3/"/>
+      <tstamp>57288ED3</tstamp>
+    </comp>
+    <comp ref="R301">
+      <value>5k4</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/p-mos_switch_S0_0.sch/" tstamps="/572880E3/"/>
+      <tstamp>57270EA2</tstamp>
+    </comp>
+    <comp ref="Q401">
+      <value>BC548</value>
+      <footprint>TO-92</footprint>
+      <libsource lib="transistors" part="BC548"/>
+      <sheetpath names="/p-mos_switch_S0_1.sch/" tstamps="/572753D2/"/>
+      <tstamp>572887A4</tstamp>
+    </comp>
+    <comp ref="Q402">
+      <value>IRLML2244</value>
+      <libsource lib="device" part="Q_PMOS_GSD"/>
+      <sheetpath names="/p-mos_switch_S0_1.sch/" tstamps="/572753D2/"/>
+      <tstamp>57288D4B</tstamp>
+    </comp>
+    <comp ref="R402">
+      <value>2k5</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/p-mos_switch_S0_1.sch/" tstamps="/572753D2/"/>
+      <tstamp>57288EBC</tstamp>
+    </comp>
+    <comp ref="R403">
+      <value>24k</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/p-mos_switch_S0_1.sch/" tstamps="/572753D2/"/>
+      <tstamp>57288ED3</tstamp>
+    </comp>
+    <comp ref="R401">
+      <value>5k4</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/p-mos_switch_S0_1.sch/" tstamps="/572753D2/"/>
+      <tstamp>57270EA2</tstamp>
+    </comp>
+    <comp ref="Q501">
+      <value>BC548</value>
+      <footprint>TO-92</footprint>
+      <libsource lib="transistors" part="BC548"/>
+      <sheetpath names="/p-mos_switch_S0_2.sch/" tstamps="/57275FE1/"/>
+      <tstamp>572887A4</tstamp>
+    </comp>
+    <comp ref="Q502">
+      <value>IRLML2244</value>
+      <libsource lib="device" part="Q_PMOS_GSD"/>
+      <sheetpath names="/p-mos_switch_S0_2.sch/" tstamps="/57275FE1/"/>
+      <tstamp>57288D4B</tstamp>
+    </comp>
+    <comp ref="R502">
+      <value>2k5</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/p-mos_switch_S0_2.sch/" tstamps="/57275FE1/"/>
+      <tstamp>57288EBC</tstamp>
+    </comp>
+    <comp ref="R503">
+      <value>24k</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/p-mos_switch_S0_2.sch/" tstamps="/57275FE1/"/>
+      <tstamp>57288ED3</tstamp>
+    </comp>
+    <comp ref="R501">
+      <value>5k4</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/p-mos_switch_S0_2.sch/" tstamps="/57275FE1/"/>
+      <tstamp>57270EA2</tstamp>
+    </comp>
+    <comp ref="Q601">
+      <value>BC548</value>
+      <footprint>TO-92</footprint>
+      <libsource lib="transistors" part="BC548"/>
+      <sheetpath names="/p-mos_switch_S0_3.sch/" tstamps="/57276A86/"/>
+      <tstamp>572887A4</tstamp>
+    </comp>
+    <comp ref="Q602">
+      <value>IRLML2244</value>
+      <libsource lib="device" part="Q_PMOS_GSD"/>
+      <sheetpath names="/p-mos_switch_S0_3.sch/" tstamps="/57276A86/"/>
+      <tstamp>57288D4B</tstamp>
+    </comp>
+    <comp ref="R602">
+      <value>2k5</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/p-mos_switch_S0_3.sch/" tstamps="/57276A86/"/>
+      <tstamp>57288EBC</tstamp>
+    </comp>
+    <comp ref="R603">
+      <value>24k</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/p-mos_switch_S0_3.sch/" tstamps="/57276A86/"/>
+      <tstamp>57288ED3</tstamp>
+    </comp>
+    <comp ref="R601">
+      <value>5k4</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/p-mos_switch_S0_3.sch/" tstamps="/57276A86/"/>
+      <tstamp>57270EA2</tstamp>
+    </comp>
+    <comp ref="Q701">
+      <value>BC548</value>
+      <footprint>TO-92</footprint>
+      <libsource lib="transistors" part="BC548"/>
+      <sheetpath names="/p-mos_switch_S0_4.sch/" tstamps="/57276A8A/"/>
+      <tstamp>572887A4</tstamp>
+    </comp>
+    <comp ref="Q702">
+      <value>IRLML2244</value>
+      <libsource lib="device" part="Q_PMOS_GSD"/>
+      <sheetpath names="/p-mos_switch_S0_4.sch/" tstamps="/57276A8A/"/>
+      <tstamp>57288D4B</tstamp>
+    </comp>
+    <comp ref="R702">
+      <value>2k5</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/p-mos_switch_S0_4.sch/" tstamps="/57276A8A/"/>
+      <tstamp>57288EBC</tstamp>
+    </comp>
+    <comp ref="R703">
+      <value>24k</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/p-mos_switch_S0_4.sch/" tstamps="/57276A8A/"/>
+      <tstamp>57288ED3</tstamp>
+    </comp>
+    <comp ref="R701">
+      <value>5k4</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/p-mos_switch_S0_4.sch/" tstamps="/57276A8A/"/>
+      <tstamp>57270EA2</tstamp>
+    </comp>
+    <comp ref="Q801">
+      <value>BC548</value>
+      <footprint>TO-92</footprint>
+      <libsource lib="transistors" part="BC548"/>
+      <sheetpath names="/p-mos_switch_S0_5.sch/" tstamps="/57276A8E/"/>
+      <tstamp>572887A4</tstamp>
+    </comp>
+    <comp ref="Q802">
+      <value>IRLML2244</value>
+      <libsource lib="device" part="Q_PMOS_GSD"/>
+      <sheetpath names="/p-mos_switch_S0_5.sch/" tstamps="/57276A8E/"/>
+      <tstamp>57288D4B</tstamp>
+    </comp>
+    <comp ref="R802">
+      <value>2k5</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/p-mos_switch_S0_5.sch/" tstamps="/57276A8E/"/>
+      <tstamp>57288EBC</tstamp>
+    </comp>
+    <comp ref="R803">
+      <value>24k</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/p-mos_switch_S0_5.sch/" tstamps="/57276A8E/"/>
+      <tstamp>57288ED3</tstamp>
+    </comp>
+    <comp ref="R801">
+      <value>5k4</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/p-mos_switch_S0_5.sch/" tstamps="/57276A8E/"/>
+      <tstamp>57270EA2</tstamp>
+    </comp>
+    <comp ref="Q901">
+      <value>BC548</value>
+      <footprint>TO-92</footprint>
+      <libsource lib="transistors" part="BC548"/>
+      <sheetpath names="/p-mos_switch_S0_6.sch/" tstamps="/57276E10/"/>
+      <tstamp>572887A4</tstamp>
+    </comp>
+    <comp ref="Q902">
+      <value>IRLML2244</value>
+      <libsource lib="device" part="Q_PMOS_GSD"/>
+      <sheetpath names="/p-mos_switch_S0_6.sch/" tstamps="/57276E10/"/>
+      <tstamp>57288D4B</tstamp>
+    </comp>
+    <comp ref="R902">
+      <value>2k5</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/p-mos_switch_S0_6.sch/" tstamps="/57276E10/"/>
+      <tstamp>57288EBC</tstamp>
+    </comp>
+    <comp ref="R903">
+      <value>24k</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/p-mos_switch_S0_6.sch/" tstamps="/57276E10/"/>
+      <tstamp>57288ED3</tstamp>
+    </comp>
+    <comp ref="R901">
+      <value>5k4</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/p-mos_switch_S0_6.sch/" tstamps="/57276E10/"/>
+      <tstamp>57270EA2</tstamp>
+    </comp>
+    <comp ref="Q1001">
+      <value>BC548</value>
+      <footprint>TO-92</footprint>
+      <libsource lib="transistors" part="BC548"/>
+      <sheetpath names="/p-mos_switch_S1_0.sch/" tstamps="/5727C603/"/>
+      <tstamp>572887A4</tstamp>
+    </comp>
+    <comp ref="Q1002">
+      <value>IRLML2244</value>
+      <libsource lib="device" part="Q_PMOS_GSD"/>
+      <sheetpath names="/p-mos_switch_S1_0.sch/" tstamps="/5727C603/"/>
+      <tstamp>57288D4B</tstamp>
+    </comp>
+    <comp ref="R1002">
+      <value>2k5</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/p-mos_switch_S1_0.sch/" tstamps="/5727C603/"/>
+      <tstamp>57288EBC</tstamp>
+    </comp>
+    <comp ref="R1003">
+      <value>24k</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/p-mos_switch_S1_0.sch/" tstamps="/5727C603/"/>
+      <tstamp>57288ED3</tstamp>
+    </comp>
+    <comp ref="R1001">
+      <value>5k4</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/p-mos_switch_S1_0.sch/" tstamps="/5727C603/"/>
+      <tstamp>57270EA2</tstamp>
+    </comp>
+    <comp ref="Q1101">
+      <value>BC548</value>
+      <footprint>TO-92</footprint>
+      <libsource lib="transistors" part="BC548"/>
+      <sheetpath names="/p-mos_switch_S1_1.sch/" tstamps="/5727C607/"/>
+      <tstamp>572887A4</tstamp>
+    </comp>
+    <comp ref="Q1102">
+      <value>IRLML2244</value>
+      <libsource lib="device" part="Q_PMOS_GSD"/>
+      <sheetpath names="/p-mos_switch_S1_1.sch/" tstamps="/5727C607/"/>
+      <tstamp>57288D4B</tstamp>
+    </comp>
+    <comp ref="R1102">
+      <value>2k5</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/p-mos_switch_S1_1.sch/" tstamps="/5727C607/"/>
+      <tstamp>57288EBC</tstamp>
+    </comp>
+    <comp ref="R1103">
+      <value>24k</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/p-mos_switch_S1_1.sch/" tstamps="/5727C607/"/>
+      <tstamp>57288ED3</tstamp>
+    </comp>
+    <comp ref="R1101">
+      <value>5k4</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/p-mos_switch_S1_1.sch/" tstamps="/5727C607/"/>
+      <tstamp>57270EA2</tstamp>
+    </comp>
+    <comp ref="Q1201">
+      <value>BC548</value>
+      <footprint>TO-92</footprint>
+      <libsource lib="transistors" part="BC548"/>
+      <sheetpath names="/p-mos_switch_S1_2.sch/" tstamps="/5727C60B/"/>
+      <tstamp>572887A4</tstamp>
+    </comp>
+    <comp ref="Q1202">
+      <value>IRLML2244</value>
+      <libsource lib="device" part="Q_PMOS_GSD"/>
+      <sheetpath names="/p-mos_switch_S1_2.sch/" tstamps="/5727C60B/"/>
+      <tstamp>57288D4B</tstamp>
+    </comp>
+    <comp ref="R1202">
+      <value>2k5</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/p-mos_switch_S1_2.sch/" tstamps="/5727C60B/"/>
+      <tstamp>57288EBC</tstamp>
+    </comp>
+    <comp ref="R1203">
+      <value>24k</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/p-mos_switch_S1_2.sch/" tstamps="/5727C60B/"/>
+      <tstamp>57288ED3</tstamp>
+    </comp>
+    <comp ref="R1201">
+      <value>5k4</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/p-mos_switch_S1_2.sch/" tstamps="/5727C60B/"/>
+      <tstamp>57270EA2</tstamp>
+    </comp>
+    <comp ref="Q1301">
+      <value>BC548</value>
+      <footprint>TO-92</footprint>
+      <libsource lib="transistors" part="BC548"/>
+      <sheetpath names="/p-mos_switch_S1_3.sch/" tstamps="/5727C60F/"/>
+      <tstamp>572887A4</tstamp>
+    </comp>
+    <comp ref="Q1302">
+      <value>IRLML2244</value>
+      <libsource lib="device" part="Q_PMOS_GSD"/>
+      <sheetpath names="/p-mos_switch_S1_3.sch/" tstamps="/5727C60F/"/>
+      <tstamp>57288D4B</tstamp>
+    </comp>
+    <comp ref="R1302">
+      <value>2k5</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/p-mos_switch_S1_3.sch/" tstamps="/5727C60F/"/>
+      <tstamp>57288EBC</tstamp>
+    </comp>
+    <comp ref="R1303">
+      <value>24k</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/p-mos_switch_S1_3.sch/" tstamps="/5727C60F/"/>
+      <tstamp>57288ED3</tstamp>
+    </comp>
+    <comp ref="R1301">
+      <value>5k4</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/p-mos_switch_S1_3.sch/" tstamps="/5727C60F/"/>
+      <tstamp>57270EA2</tstamp>
+    </comp>
+    <comp ref="Q1401">
+      <value>BC548</value>
+      <footprint>TO-92</footprint>
+      <libsource lib="transistors" part="BC548"/>
+      <sheetpath names="/p-mos_switch_S1_4.sch/" tstamps="/5727C613/"/>
+      <tstamp>572887A4</tstamp>
+    </comp>
+    <comp ref="Q1402">
+      <value>IRLML2244</value>
+      <libsource lib="device" part="Q_PMOS_GSD"/>
+      <sheetpath names="/p-mos_switch_S1_4.sch/" tstamps="/5727C613/"/>
+      <tstamp>57288D4B</tstamp>
+    </comp>
+    <comp ref="R1402">
+      <value>2k5</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/p-mos_switch_S1_4.sch/" tstamps="/5727C613/"/>
+      <tstamp>57288EBC</tstamp>
+    </comp>
+    <comp ref="R1403">
+      <value>24k</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/p-mos_switch_S1_4.sch/" tstamps="/5727C613/"/>
+      <tstamp>57288ED3</tstamp>
+    </comp>
+    <comp ref="R1401">
+      <value>5k4</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/p-mos_switch_S1_4.sch/" tstamps="/5727C613/"/>
+      <tstamp>57270EA2</tstamp>
+    </comp>
+    <comp ref="Q1501">
+      <value>BC548</value>
+      <footprint>TO-92</footprint>
+      <libsource lib="transistors" part="BC548"/>
+      <sheetpath names="/p-mos_switch_S1_5.sch/" tstamps="/5727C617/"/>
+      <tstamp>572887A4</tstamp>
+    </comp>
+    <comp ref="Q1502">
+      <value>IRLML2244</value>
+      <libsource lib="device" part="Q_PMOS_GSD"/>
+      <sheetpath names="/p-mos_switch_S1_5.sch/" tstamps="/5727C617/"/>
+      <tstamp>57288D4B</tstamp>
+    </comp>
+    <comp ref="R1502">
+      <value>2k5</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/p-mos_switch_S1_5.sch/" tstamps="/5727C617/"/>
+      <tstamp>57288EBC</tstamp>
+    </comp>
+    <comp ref="R1503">
+      <value>24k</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/p-mos_switch_S1_5.sch/" tstamps="/5727C617/"/>
+      <tstamp>57288ED3</tstamp>
+    </comp>
+    <comp ref="R1501">
+      <value>5k4</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/p-mos_switch_S1_5.sch/" tstamps="/5727C617/"/>
+      <tstamp>57270EA2</tstamp>
+    </comp>
+    <comp ref="Q1601">
+      <value>BC548</value>
+      <footprint>TO-92</footprint>
+      <libsource lib="transistors" part="BC548"/>
+      <sheetpath names="/p-mos_switch_S1_6.sch/" tstamps="/5727C61B/"/>
+      <tstamp>572887A4</tstamp>
+    </comp>
+    <comp ref="Q1602">
+      <value>IRLML2244</value>
+      <libsource lib="device" part="Q_PMOS_GSD"/>
+      <sheetpath names="/p-mos_switch_S1_6.sch/" tstamps="/5727C61B/"/>
+      <tstamp>57288D4B</tstamp>
+    </comp>
+    <comp ref="R1602">
+      <value>2k5</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/p-mos_switch_S1_6.sch/" tstamps="/5727C61B/"/>
+      <tstamp>57288EBC</tstamp>
+    </comp>
+    <comp ref="R1603">
+      <value>24k</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/p-mos_switch_S1_6.sch/" tstamps="/5727C61B/"/>
+      <tstamp>57288ED3</tstamp>
+    </comp>
+    <comp ref="R1601">
+      <value>5k4</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/p-mos_switch_S1_6.sch/" tstamps="/5727C61B/"/>
+      <tstamp>57270EA2</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="atmel" part="ATMEGA168A-P">
+      <aliases>
+        <alias>ATMEGA48A-P</alias>
+        <alias>ATMEGA48PA-P</alias>
+        <alias>ATMEGA88A-P</alias>
+        <alias>ATMEGA88PA-P</alias>
+        <alias>ATMEGA168PA-P</alias>
+        <alias>ATMEGA328-P</alias>
+        <alias>ATMEGA328P-P</alias>
+      </aliases>
+      <description>PDIP28 Narrow, 16k Flash, 1kB SRAM, 512B EEPROM</description>
+      <docs>http://www.atmel.com/images/atmel-8271-8-bit-avr-microcontroller-atmega48a-48pa-88a-88pa-168a-168pa-328-328p_datasheet.pdf</docs>
+      <footprints>
+        <fp>28DIP-ELL600</fp>
+        <fp>28dip600</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">ATMEGA168A-P</field>
+        <field name="Footprint">DIL28</field>
+      </fields>
+      <pins>
+        <pin num="1" name="(PCINT14/~RESET~)PC6" type="BiDi"/>
+        <pin num="2" name="(PCINT16/RXD)PD0" type="BiDi"/>
+        <pin num="3" name="(PCINT17/TXD)PD1" type="BiDi"/>
+        <pin num="4" name="(PCINT18/INT0)PD2" type="BiDi"/>
+        <pin num="5" name="(PCINT19/OC2B/INT1)PD3" type="BiDi"/>
+        <pin num="6" name="(PCINT20/XCK/T0)PD4" type="BiDi"/>
+        <pin num="7" name="VCC" type="power_in"/>
+        <pin num="8" name="GND" type="power_in"/>
+        <pin num="9" name="(PCINT6/XTAL1/TOSC1)PB6" type="BiDi"/>
+        <pin num="10" name="(PCINT7/XTAL2/TOSC2)PB7" type="BiDi"/>
+        <pin num="11" name="(PCINT21/OC0B/T1)PD5" type="BiDi"/>
+        <pin num="12" name="(PCINT22/OC0A/AIN0)PD6" type="BiDi"/>
+        <pin num="13" name="(PCINT23/AIN1)PD7" type="BiDi"/>
+        <pin num="14" name="(PCINT0/CLKO/ICP1)PB0" type="BiDi"/>
+        <pin num="15" name="(PCINT1/OC1A)PB1" type="BiDi"/>
+        <pin num="16" name="(PCINT2/OC1B/~SS~)PB2" type="BiDi"/>
+        <pin num="17" name="(PCINT3/OC2A/MOSI)PB3" type="BiDi"/>
+        <pin num="18" name="(PCINT4/MISO)PB4" type="BiDi"/>
+        <pin num="19" name="(PCINT5/SCK)PB5" type="BiDi"/>
+        <pin num="20" name="AVCC" type="power_in"/>
+        <pin num="21" name="AREF" type="BiDi"/>
+        <pin num="22" name="GND" type="power_in"/>
+        <pin num="23" name="(PCINT8/ADC0)PC0" type="BiDi"/>
+        <pin num="24" name="(PCINT9/ADC1)PC1" type="BiDi"/>
+        <pin num="25" name="(PCINT10/ADC2)PC2" type="BiDi"/>
+        <pin num="26" name="(PCINT11/ADC3)PC3" type="BiDi"/>
+        <pin num="27" name="(PCINT12/SDA/ADC4)PC4" type="BiDi"/>
+        <pin num="28" name="(PCINT13/SCL/ADC5)PC5" type="BiDi"/>
+      </pins>
+    </libpart>
+    <libpart lib="transistors" part="BC547">
+      <aliases>
+        <alias>BC546</alias>
+        <alias>BC548</alias>
+        <alias>BC549</alias>
+        <alias>BC550</alias>
+      </aliases>
+      <description>45V Vce, 0.1A Ic, NPN, Small Signal Transistor, TO-92</description>
+      <docs>http://www.fairchildsemi.com/ds/BC/BC547.pdf</docs>
+      <footprints>
+        <fp>TO-92*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">BC547</field>
+        <field name="Footprint">TO-92</field>
+      </fields>
+      <pins>
+        <pin num="1" name="C" type="passive"/>
+        <pin num="2" name="B" type="input"/>
+        <pin num="3" name="E" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="C">
+      <description>Unpolarized capacitor</description>
+      <footprints>
+        <fp>C?</fp>
+        <fp>C_????_*</fp>
+        <fp>C_????</fp>
+        <fp>SMD*_c</fp>
+        <fp>Capacitor*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="conn" part="CONN_01X02">
+      <description>Connector 01x02</description>
+      <footprints>
+        <fp>Pin_Header_Straight_1X02</fp>
+        <fp>Pin_Header_Angled_1X02</fp>
+        <fp>Socket_Strip_Straight_1X02</fp>
+        <fp>Socket_Strip_Angled_1X02</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_01X02</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="P2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="project_parts" part="CONN_01X02_P">
+      <description>Connector 01x02</description>
+      <footprints>
+        <fp>Pin_Header_Straight_1X02</fp>
+        <fp>Pin_Header_Angled_1X02</fp>
+        <fp>Socket_Strip_Straight_1X02</fp>
+        <fp>Socket_Strip_Angled_1X02</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_01X02_P</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="power_out"/>
+        <pin num="2" name="P2" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="conn" part="CONN_02X05">
+      <description>Connector 02x05</description>
+      <footprints>
+        <fp>Pin_Header_Straight_2X05</fp>
+        <fp>Pin_Header_Angled_2X05</fp>
+        <fp>Socket_Strip_Straight_2X05</fp>
+        <fp>Socket_Strip_Angled_2X05</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_02X05</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="P2" type="passive"/>
+        <pin num="3" name="P3" type="passive"/>
+        <pin num="4" name="P4" type="passive"/>
+        <pin num="5" name="P5" type="passive"/>
+        <pin num="6" name="P6" type="passive"/>
+        <pin num="7" name="P7" type="passive"/>
+        <pin num="8" name="P8" type="passive"/>
+        <pin num="9" name="P9" type="passive"/>
+        <pin num="10" name="P10" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="CP">
+      <description>Polarised capacitor</description>
+      <footprints>
+        <fp>CP*</fp>
+        <fp>Elko*</fp>
+        <fp>TantalC*</fp>
+        <fp>C*elec</fp>
+        <fp>c_elec*</fp>
+        <fp>SMD*_Pol</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CP</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="C_Small">
+      <description>Unpolarized capacitor</description>
+      <footprints>
+        <fp>C?</fp>
+        <fp>C_????_*</fp>
+        <fp>C_????</fp>
+        <fp>SMD*_c</fp>
+        <fp>Capacitor*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="project_parts" part="F_Power">
+      <description>Fuse</description>
+      <footprints>
+        <fp>CP*</fp>
+        <fp>SM*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">F_Power</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="power_in"/>
+        <pin num="2" name="~" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="project_parts" part="LF33">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LF33</field>
+      </fields>
+      <pins>
+        <pin num="1" name="V_IN" type="power_in"/>
+        <pin num="2" name="INHIBIT" type="input"/>
+        <pin num="3" name="GND" type="input"/>
+        <pin num="5" name="V_OUT" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="Q_NMOS_GSD">
+      <description>Transistor N-MOSFET (general)</description>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">Q_NMOS_GSD</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="D" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="Q_PMOS_GSD">
+      <description>Transistor P-MOSFET (general)</description>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">Q_PMOS_GSD</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="D" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="R">
+      <description>Resistor</description>
+      <footprints>
+        <fp>R_*</fp>
+        <fp>Resistor_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="ZENER">
+      <description>Diode zener</description>
+      <footprints>
+        <fp>D?</fp>
+        <fp>SO*</fp>
+        <fp>SM*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">ZENER</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="device">
+      <uri>/usr/share/kicad/library/device.lib</uri>
+    </library>
+    <library logical="conn">
+      <uri>/usr/share/kicad/library/conn.lib</uri>
+    </library>
+    <library logical="transistors">
+      <uri>/usr/share/kicad/library/transistors.lib</uri>
+    </library>
+    <library logical="atmel">
+      <uri>/usr/share/kicad/library/atmel.lib</uri>
+    </library>
+    <library logical="project_parts">
+      <uri>/home/chris/DL/Projekte/score_board/public/code/board_schematic/project_parts.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/MOSI">
+      <node ref="R109" pin="2"/>
+      <node ref="R103" pin="1"/>
+      <node ref="IC101" pin="17"/>
+    </net>
+    <net code="2" name="Net-(IC101-Pad5)">
+      <node ref="IC101" pin="5"/>
+      <node ref="R110" pin="2"/>
+    </net>
+    <net code="3" name="Net-(IC101-Pad12)">
+      <node ref="R112" pin="2"/>
+      <node ref="IC101" pin="12"/>
+    </net>
+    <net code="4" name="/p-mos_switch_S0_1.sch/S_IN">
+      <node ref="IC101" pin="18"/>
+      <node ref="R106" pin="1"/>
+      <node ref="R401" pin="2"/>
+    </net>
+    <net code="5" name="/G1_R">
+      <node ref="R111" pin="1"/>
+      <node ref="R115" pin="1"/>
+      <node ref="Q102" pin="1"/>
+    </net>
+    <net code="6" name="/p-mos_switch_S0_3.sch/S_IN">
+      <node ref="R601" pin="2"/>
+      <node ref="IC101" pin="9"/>
+    </net>
+    <net code="7" name="/p-mos_switch_S0_2.sch/S_IN">
+      <node ref="IC101" pin="19"/>
+      <node ref="R501" pin="2"/>
+      <node ref="R105" pin="1"/>
+    </net>
+    <net code="8" name="/p-mos_switch_S0_0.sch/S_IN">
+      <node ref="IC101" pin="14"/>
+      <node ref="R301" pin="2"/>
+    </net>
+    <net code="9" name="GND">
+      <node ref="Q401" pin="3"/>
+      <node ref="R402" pin="2"/>
+      <node ref="C101" pin="2"/>
+      <node ref="IC101" pin="22"/>
+      <node ref="D201" pin="2"/>
+      <node ref="C202" pin="2"/>
+      <node ref="Q501" pin="3"/>
+      <node ref="R502" pin="2"/>
+      <node ref="Q103" pin="2"/>
+      <node ref="IC101" pin="8"/>
+      <node ref="R117" pin="2"/>
+      <node ref="R115" pin="2"/>
+      <node ref="R118" pin="2"/>
+      <node ref="Q101" pin="2"/>
+      <node ref="Q105" pin="2"/>
+      <node ref="P102" pin="8"/>
+      <node ref="P102" pin="10"/>
+      <node ref="U201" pin="3"/>
+      <node ref="P201" pin="1"/>
+      <node ref="C201" pin="2"/>
+      <node ref="Q102" pin="2"/>
+      <node ref="Q104" pin="2"/>
+      <node ref="Q106" pin="2"/>
+      <node ref="R116" pin="2"/>
+      <node ref="R114" pin="2"/>
+      <node ref="Q1401" pin="3"/>
+      <node ref="R1402" pin="2"/>
+      <node ref="Q1301" pin="3"/>
+      <node ref="R1302" pin="2"/>
+      <node ref="Q1201" pin="3"/>
+      <node ref="R1202" pin="2"/>
+      <node ref="Q301" pin="3"/>
+      <node ref="R302" pin="2"/>
+      <node ref="Q1601" pin="3"/>
+      <node ref="R1602" pin="2"/>
+      <node ref="Q1501" pin="3"/>
+      <node ref="R1502" pin="2"/>
+      <node ref="R902" pin="2"/>
+      <node ref="Q801" pin="3"/>
+      <node ref="R802" pin="2"/>
+      <node ref="Q701" pin="3"/>
+      <node ref="R702" pin="2"/>
+      <node ref="Q601" pin="3"/>
+      <node ref="Q1101" pin="3"/>
+      <node ref="R1102" pin="2"/>
+      <node ref="R602" pin="2"/>
+      <node ref="Q1001" pin="3"/>
+      <node ref="R1002" pin="2"/>
+      <node ref="Q901" pin="3"/>
+      <node ref="C102" pin="2"/>
+      <node ref="R119" pin="2"/>
+    </net>
+    <net code="10" name="/RESET">
+      <node ref="R104" pin="1"/>
+      <node ref="C102" pin="1"/>
+      <node ref="R113" pin="1"/>
+      <node ref="IC101" pin="1"/>
+    </net>
+    <net code="11" name="/G0_R">
+      <node ref="Q101" pin="1"/>
+      <node ref="R112" pin="1"/>
+      <node ref="R114" pin="1"/>
+    </net>
+    <net code="12" name="/G1_B">
+      <node ref="R119" pin="1"/>
+      <node ref="R110" pin="1"/>
+      <node ref="Q106" pin="1"/>
+    </net>
+    <net code="13" name="/G0_B">
+      <node ref="R118" pin="1"/>
+      <node ref="Q105" pin="1"/>
+      <node ref="R109" pin="1"/>
+    </net>
+    <net code="14" name="/G1_G">
+      <node ref="R117" pin="1"/>
+      <node ref="Q104" pin="1"/>
+      <node ref="R108" pin="1"/>
+    </net>
+    <net code="15" name="/G0_G">
+      <node ref="R116" pin="1"/>
+      <node ref="Q103" pin="1"/>
+      <node ref="R107" pin="1"/>
+    </net>
+    <net code="16" name="Net-(IC101-Pad15)">
+      <node ref="R107" pin="2"/>
+      <node ref="IC101" pin="15"/>
+    </net>
+    <net code="17" name="Net-(IC101-Pad16)">
+      <node ref="R108" pin="2"/>
+      <node ref="IC101" pin="16"/>
+    </net>
+    <net code="18" name="/p-mos_switch_S1_2.sch/S_OUT">
+      <node ref="P107" pin="2"/>
+      <node ref="Q1202" pin="3"/>
+    </net>
+    <net code="19" name="/p-mos_switch_S1_1.sch/S_OUT">
+      <node ref="P107" pin="1"/>
+      <node ref="Q1102" pin="3"/>
+    </net>
+    <net code="20" name="/p-mos_switch_S1_0.sch/S_OUT">
+      <node ref="P106" pin="2"/>
+      <node ref="Q1002" pin="3"/>
+    </net>
+    <net code="21" name="/p-mos_switch_S0_6.sch/S_OUT">
+      <node ref="P106" pin="1"/>
+      <node ref="Q902" pin="3"/>
+    </net>
+    <net code="22" name="/p-mos_switch_S0_5.sch/S_OUT">
+      <node ref="Q802" pin="3"/>
+      <node ref="P105" pin="2"/>
+    </net>
+    <net code="23" name="/p-mos_switch_S0_4.sch/S_OUT">
+      <node ref="Q702" pin="3"/>
+      <node ref="P105" pin="1"/>
+    </net>
+    <net code="24" name="/p-mos_switch_S0_3.sch/S_OUT">
+      <node ref="Q602" pin="3"/>
+      <node ref="P104" pin="2"/>
+    </net>
+    <net code="25" name="/p-mos_switch_S0_2.sch/S_OUT">
+      <node ref="P104" pin="1"/>
+      <node ref="Q502" pin="3"/>
+    </net>
+    <net code="26" name="/p-mos_switch_S0_1.sch/S_OUT">
+      <node ref="P103" pin="2"/>
+      <node ref="Q402" pin="3"/>
+    </net>
+    <net code="27" name="/p-mos_switch_S0_0.sch/S_OUT">
+      <node ref="Q302" pin="3"/>
+      <node ref="P103" pin="1"/>
+    </net>
+    <net code="28" name="+12.0V">
+      <node ref="R403" pin="1"/>
+      <node ref="Q402" pin="2"/>
+      <node ref="R1303" pin="1"/>
+      <node ref="R903" pin="1"/>
+      <node ref="D201" pin="1"/>
+      <node ref="C201" pin="1"/>
+      <node ref="R803" pin="1"/>
+      <node ref="Q802" pin="2"/>
+      <node ref="R603" pin="1"/>
+      <node ref="R503" pin="1"/>
+      <node ref="Q502" pin="2"/>
+      <node ref="Q702" pin="2"/>
+      <node ref="Q602" pin="2"/>
+      <node ref="R703" pin="1"/>
+      <node ref="R303" pin="1"/>
+      <node ref="Q1402" pin="2"/>
+      <node ref="Q1302" pin="2"/>
+      <node ref="P110" pin="2"/>
+      <node ref="P110" pin="1"/>
+      <node ref="Q302" pin="2"/>
+      <node ref="R1203" pin="1"/>
+      <node ref="Q1002" pin="2"/>
+      <node ref="R1003" pin="1"/>
+      <node ref="R1503" pin="1"/>
+      <node ref="R1103" pin="1"/>
+      <node ref="Q1102" pin="2"/>
+      <node ref="Q1502" pin="2"/>
+      <node ref="Q1202" pin="2"/>
+      <node ref="R1603" pin="1"/>
+      <node ref="R1403" pin="1"/>
+      <node ref="Q1602" pin="2"/>
+      <node ref="F201" pin="2"/>
+      <node ref="Q902" pin="2"/>
+      <node ref="U201" pin="1"/>
+    </net>
+    <net code="29" name="Net-(P102-Pad3)">
+      <node ref="P102" pin="3"/>
+    </net>
+    <net code="30" name="Net-(P102-Pad2)">
+      <node ref="P102" pin="2"/>
+    </net>
+    <net code="31" name="Net-(IC101-Pad21)">
+      <node ref="IC101" pin="21"/>
+    </net>
+    <net code="32" name="Net-(IC101-Pad11)">
+      <node ref="IC101" pin="11"/>
+      <node ref="R111" pin="2"/>
+    </net>
+    <net code="33" name="/p-mos_switch_S1_6.sch/S_OUT">
+      <node ref="Q1602" pin="3"/>
+      <node ref="P109" pin="2"/>
+    </net>
+    <net code="34" name="/p-mos_switch_S1_5.sch/S_OUT">
+      <node ref="Q1502" pin="3"/>
+      <node ref="P109" pin="1"/>
+    </net>
+    <net code="35" name="/p-mos_switch_S1_4.sch/S_OUT">
+      <node ref="P108" pin="2"/>
+      <node ref="Q1402" pin="3"/>
+    </net>
+    <net code="36" name="/p-mos_switch_S1_3.sch/S_OUT">
+      <node ref="P108" pin="1"/>
+      <node ref="Q1302" pin="3"/>
+    </net>
+    <net code="37" name="/SCL">
+      <node ref="IC101" pin="28"/>
+      <node ref="R102" pin="2"/>
+    </net>
+    <net code="38" name="/p-mos_switch_S1_6.sch/S_IN">
+      <node ref="R1601" pin="2"/>
+      <node ref="IC101" pin="13"/>
+    </net>
+    <net code="39" name="/p-mos_switch_S1_5.sch/S_IN">
+      <node ref="IC101" pin="6"/>
+      <node ref="R1501" pin="2"/>
+    </net>
+    <net code="40" name="/p-mos_switch_S1_4.sch/S_IN">
+      <node ref="R1401" pin="2"/>
+      <node ref="IC101" pin="4"/>
+    </net>
+    <net code="41" name="/p-mos_switch_S1_3.sch/S_IN">
+      <node ref="P102" pin="6"/>
+      <node ref="R1301" pin="2"/>
+      <node ref="IC101" pin="3"/>
+    </net>
+    <net code="42" name="/p-mos_switch_S1_2.sch/S_IN">
+      <node ref="R1201" pin="2"/>
+      <node ref="P102" pin="4"/>
+      <node ref="IC101" pin="2"/>
+    </net>
+    <net code="43" name="/SDA">
+      <node ref="IC101" pin="27"/>
+      <node ref="R101" pin="2"/>
+    </net>
+    <net code="44" name="/p-mos_switch_S1_1.sch/S_IN">
+      <node ref="IC101" pin="26"/>
+      <node ref="R1101" pin="2"/>
+    </net>
+    <net code="45" name="/p-mos_switch_S1_0.sch/S_IN">
+      <node ref="R1001" pin="2"/>
+      <node ref="IC101" pin="25"/>
+    </net>
+    <net code="46" name="/p-mos_switch_S0_6.sch/S_IN">
+      <node ref="IC101" pin="24"/>
+      <node ref="R901" pin="2"/>
+    </net>
+    <net code="47" name="/p-mos_switch_S0_5.sch/S_IN">
+      <node ref="R801" pin="2"/>
+      <node ref="IC101" pin="23"/>
+    </net>
+    <net code="48" name="/p-mos_switch_S0_4.sch/S_IN">
+      <node ref="IC101" pin="10"/>
+      <node ref="R701" pin="2"/>
+    </net>
+    <net code="49" name="Net-(P101-Pad1)">
+      <node ref="R101" pin="1"/>
+      <node ref="P101" pin="1"/>
+    </net>
+    <net code="50" name="Net-(P101-Pad2)">
+      <node ref="P101" pin="2"/>
+      <node ref="R102" pin="1"/>
+    </net>
+    <net code="51" name="+3.3V">
+      <node ref="R113" pin="2"/>
+      <node ref="C202" pin="1"/>
+      <node ref="IC101" pin="7"/>
+      <node ref="IC101" pin="20"/>
+      <node ref="U201" pin="5"/>
+      <node ref="C101" pin="1"/>
+    </net>
+    <net code="52" name="Net-(P102-Pad9)">
+      <node ref="P102" pin="9"/>
+      <node ref="R106" pin="2"/>
+    </net>
+    <net code="53" name="Net-(P102-Pad7)">
+      <node ref="P102" pin="7"/>
+      <node ref="R105" pin="2"/>
+    </net>
+    <net code="54" name="Net-(P102-Pad5)">
+      <node ref="P102" pin="5"/>
+      <node ref="R104" pin="2"/>
+    </net>
+    <net code="55" name="Net-(P102-Pad1)">
+      <node ref="P102" pin="1"/>
+      <node ref="R103" pin="2"/>
+    </net>
+    <net code="56" name="Net-(P131-Pad1)">
+      <node ref="P131" pin="1"/>
+      <node ref="Q106" pin="3"/>
+      <node ref="P131" pin="2"/>
+    </net>
+    <net code="57" name="Net-(P123-Pad1)">
+      <node ref="Q104" pin="3"/>
+      <node ref="P123" pin="1"/>
+      <node ref="P123" pin="2"/>
+    </net>
+    <net code="58" name="Net-(P115-Pad1)">
+      <node ref="P115" pin="1"/>
+      <node ref="P115" pin="2"/>
+      <node ref="Q102" pin="3"/>
+    </net>
+    <net code="59" name="Net-(P111-Pad1)">
+      <node ref="P117" pin="2"/>
+      <node ref="Q101" pin="3"/>
+      <node ref="P117" pin="1"/>
+      <node ref="P114" pin="2"/>
+      <node ref="P116" pin="2"/>
+      <node ref="P111" pin="2"/>
+      <node ref="P112" pin="1"/>
+      <node ref="P111" pin="1"/>
+      <node ref="P112" pin="2"/>
+      <node ref="P113" pin="1"/>
+      <node ref="P116" pin="1"/>
+      <node ref="P113" pin="2"/>
+      <node ref="P114" pin="1"/>
+      <node ref="P118" pin="2"/>
+      <node ref="P118" pin="1"/>
+    </net>
+    <net code="60" name="Net-(P127-Pad1)">
+      <node ref="P128" pin="1"/>
+      <node ref="P127" pin="2"/>
+      <node ref="P127" pin="1"/>
+      <node ref="P132" pin="2"/>
+      <node ref="Q105" pin="3"/>
+      <node ref="P132" pin="1"/>
+      <node ref="P133" pin="2"/>
+      <node ref="P133" pin="1"/>
+      <node ref="P134" pin="2"/>
+      <node ref="P134" pin="1"/>
+      <node ref="P129" pin="2"/>
+      <node ref="P128" pin="2"/>
+      <node ref="P129" pin="1"/>
+      <node ref="P130" pin="2"/>
+      <node ref="P130" pin="1"/>
+    </net>
+    <net code="61" name="Net-(P119-Pad1)">
+      <node ref="P124" pin="1"/>
+      <node ref="P125" pin="2"/>
+      <node ref="P125" pin="1"/>
+      <node ref="P122" pin="2"/>
+      <node ref="P121" pin="2"/>
+      <node ref="P126" pin="2"/>
+      <node ref="P122" pin="1"/>
+      <node ref="P124" pin="2"/>
+      <node ref="P121" pin="1"/>
+      <node ref="P120" pin="2"/>
+      <node ref="Q103" pin="3"/>
+      <node ref="P120" pin="1"/>
+      <node ref="P119" pin="2"/>
+      <node ref="P126" pin="1"/>
+      <node ref="P119" pin="1"/>
+    </net>
+    <net code="62" name="Net-(F201-Pad1)">
+      <node ref="F201" pin="1"/>
+      <node ref="P201" pin="2"/>
+    </net>
+    <net code="63" name="Net-(U201-Pad2)">
+      <node ref="U201" pin="2"/>
+    </net>
+    <net code="64" name="Net-(Q401-Pad2)">
+      <node ref="Q401" pin="2"/>
+      <node ref="R402" pin="1"/>
+      <node ref="R401" pin="1"/>
+    </net>
+    <net code="65" name="Net-(Q401-Pad1)">
+      <node ref="Q402" pin="1"/>
+      <node ref="Q401" pin="1"/>
+      <node ref="R403" pin="2"/>
+    </net>
+    <net code="66" name="Net-(Q501-Pad1)">
+      <node ref="Q501" pin="1"/>
+      <node ref="R503" pin="2"/>
+      <node ref="Q502" pin="1"/>
+    </net>
+    <net code="67" name="Net-(Q501-Pad2)">
+      <node ref="Q501" pin="2"/>
+      <node ref="R502" pin="1"/>
+      <node ref="R501" pin="1"/>
+    </net>
+    <net code="68" name="Net-(Q601-Pad2)">
+      <node ref="R601" pin="1"/>
+      <node ref="R602" pin="1"/>
+      <node ref="Q601" pin="2"/>
+    </net>
+    <net code="69" name="Net-(Q601-Pad1)">
+      <node ref="R603" pin="2"/>
+      <node ref="Q602" pin="1"/>
+      <node ref="Q601" pin="1"/>
+    </net>
+    <net code="70" name="Net-(Q701-Pad1)">
+      <node ref="R703" pin="2"/>
+      <node ref="Q702" pin="1"/>
+      <node ref="Q701" pin="1"/>
+    </net>
+    <net code="71" name="Net-(Q701-Pad2)">
+      <node ref="R701" pin="1"/>
+      <node ref="R702" pin="1"/>
+      <node ref="Q701" pin="2"/>
+    </net>
+    <net code="72" name="Net-(Q801-Pad1)">
+      <node ref="Q801" pin="1"/>
+      <node ref="R803" pin="2"/>
+      <node ref="Q802" pin="1"/>
+    </net>
+    <net code="73" name="Net-(Q801-Pad2)">
+      <node ref="Q801" pin="2"/>
+      <node ref="R802" pin="1"/>
+      <node ref="R801" pin="1"/>
+    </net>
+    <net code="74" name="Net-(Q901-Pad2)">
+      <node ref="R902" pin="1"/>
+      <node ref="R901" pin="1"/>
+      <node ref="Q901" pin="2"/>
+    </net>
+    <net code="75" name="Net-(Q901-Pad1)">
+      <node ref="Q901" pin="1"/>
+      <node ref="R903" pin="2"/>
+      <node ref="Q902" pin="1"/>
+    </net>
+    <net code="76" name="Net-(Q1001-Pad2)">
+      <node ref="R1001" pin="1"/>
+      <node ref="R1002" pin="1"/>
+      <node ref="Q1001" pin="2"/>
+    </net>
+    <net code="77" name="Net-(Q1001-Pad1)">
+      <node ref="Q1001" pin="1"/>
+      <node ref="Q1002" pin="1"/>
+      <node ref="R1003" pin="2"/>
+    </net>
+    <net code="78" name="Net-(Q1101-Pad1)">
+      <node ref="Q1101" pin="1"/>
+      <node ref="Q1102" pin="1"/>
+      <node ref="R1103" pin="2"/>
+    </net>
+    <net code="79" name="Net-(Q1101-Pad2)">
+      <node ref="Q1101" pin="2"/>
+      <node ref="R1102" pin="1"/>
+      <node ref="R1101" pin="1"/>
+    </net>
+    <net code="80" name="Net-(Q1201-Pad1)">
+      <node ref="Q1202" pin="1"/>
+      <node ref="R1203" pin="2"/>
+      <node ref="Q1201" pin="1"/>
+    </net>
+    <net code="81" name="Net-(Q1201-Pad2)">
+      <node ref="Q1201" pin="2"/>
+      <node ref="R1202" pin="1"/>
+      <node ref="R1201" pin="1"/>
+    </net>
+    <net code="82" name="Net-(Q1301-Pad1)">
+      <node ref="R1303" pin="2"/>
+      <node ref="Q1302" pin="1"/>
+      <node ref="Q1301" pin="1"/>
+    </net>
+    <net code="83" name="Net-(Q1301-Pad2)">
+      <node ref="R1301" pin="1"/>
+      <node ref="Q1301" pin="2"/>
+      <node ref="R1302" pin="1"/>
+    </net>
+    <net code="84" name="Net-(Q1401-Pad1)">
+      <node ref="R1403" pin="2"/>
+      <node ref="Q1401" pin="1"/>
+      <node ref="Q1402" pin="1"/>
+    </net>
+    <net code="85" name="Net-(Q1401-Pad2)">
+      <node ref="R1401" pin="1"/>
+      <node ref="R1402" pin="1"/>
+      <node ref="Q1401" pin="2"/>
+    </net>
+    <net code="86" name="Net-(Q1501-Pad1)">
+      <node ref="Q1501" pin="1"/>
+      <node ref="R1503" pin="2"/>
+      <node ref="Q1502" pin="1"/>
+    </net>
+    <net code="87" name="Net-(Q1501-Pad2)">
+      <node ref="Q1501" pin="2"/>
+      <node ref="R1502" pin="1"/>
+      <node ref="R1501" pin="1"/>
+    </net>
+    <net code="88" name="Net-(Q1601-Pad1)">
+      <node ref="R1603" pin="2"/>
+      <node ref="Q1601" pin="1"/>
+      <node ref="Q1602" pin="1"/>
+    </net>
+    <net code="89" name="Net-(Q1601-Pad2)">
+      <node ref="R1602" pin="1"/>
+      <node ref="Q1601" pin="2"/>
+      <node ref="R1601" pin="1"/>
+    </net>
+    <net code="90" name="Net-(Q301-Pad1)">
+      <node ref="Q301" pin="1"/>
+      <node ref="Q302" pin="1"/>
+      <node ref="R303" pin="2"/>
+    </net>
+    <net code="91" name="Net-(Q301-Pad2)">
+      <node ref="Q301" pin="2"/>
+      <node ref="R302" pin="1"/>
+      <node ref="R301" pin="1"/>
+    </net>
+  </nets>
+</export>
