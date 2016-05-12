@@ -35,9 +35,9 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 2 16
-Title ""
-Date ""
-Rev ""
+Title "uC_segment_control"
+Date "2016-05-10"
+Rev "V0.3.1"
 Comp ""
 Comment1 ""
 Comment2 ""
@@ -159,7 +159,7 @@ U 1 1 572B16EC
 P 2750 2800
 F 0 "P201" H 2750 2950 50  0000 C CNN
 F 1 "CONN_01X02_P" V 2850 2800 50  0000 C CNN
-F 2 "Connect:bornier2" H 2750 2800 50  0001 C CNN
+F 2 "Connect:AK300-2" H 2750 2800 50  0001 C CNN
 F 3 "" H 2750 2800 50  0000 C CNN
 	1    2750 2800
 	-1   0    0    1   
