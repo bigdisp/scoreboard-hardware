@@ -36,8 +36,8 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 16
 Title "uC_segment_control"
-Date "2016-05-12"
-Rev "V0.3.1"
+Date "2016-05-19"
+Rev "V0.4.1"
 Comp ""
 Comment1 ""
 Comment2 ""
@@ -91,7 +91,7 @@ U 1 1 5725FF13
 P 2600 5250
 F 0 "P128" H 2600 5550 50  0000 C CNN
 F 1 "CONN_02X05" H 2600 4950 50  0000 C CNN
-F 2 "Connect:IDC_Header_Straight_10pins" H 2600 4050 50  0001 C CNN
+F 2 "project_footprints:IDC_Header_Straight_10pins_0.6_clearance" H 2600 4050 50  0001 C CNN
 F 3 "" H 2600 4050 50  0000 C CNN
 	1    2600 5250
 	1    0    0    -1  
